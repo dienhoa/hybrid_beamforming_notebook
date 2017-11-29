@@ -98,6 +98,6 @@ ENV/
 /site
 
 
-NS_3.mat
+*.mat
 # mypy
 .mypy_cache/
